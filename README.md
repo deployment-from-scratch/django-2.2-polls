@@ -1,10 +1,10 @@
-# Django 2.2 tutorial polls app commit by commit
+# Django 4.0 tutorial polls app commit by commit
 
-This is a commit by commit Django 2.2 polls application from the official [tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/). Feel free to jump to any point in time! It is made to serve as one of the deployment examples for the [Deployment from Scratch](https://deploymentfromscratch.com/) book.
+This is a commit by commit Django 2.2 polls application (now upgraded to Django 4.0) from the official [tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/). Feel free to jump to any point in time! It is made to serve as one of the deployment examples for the [Deployment from Scratch](https://deploymentfromscratch.com/) book.
 
 ## Setup
 
-*The app requires Python 3, Django 2.2, and SQLite.*
+*The app requires Python 3, Django 4.0, and SQLite.*
 
 Run migrations:
 ```
